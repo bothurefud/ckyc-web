@@ -1,0 +1,2 @@
+pikepdf==9.5.2
+requests==2.32.3

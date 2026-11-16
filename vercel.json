@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/decrypt.py": {
+      "maxDuration": 60
+    }
+  }
+}
